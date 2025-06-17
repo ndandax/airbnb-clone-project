@@ -11,3 +11,14 @@ This project is tailored to enhance expertise in modern software development pra
     Gain proficiency in designing and managing CI/CD pipelines for efficient deployment.
     Strengthen ability to document and plan complex software projects effectively.
     Develop an understanding of integrating technologies like Django, MySQL, and GraphQL in a unified ecosystem.
+
+## Team Roles
+
+Backend Developer: Responsible for implementing API endpoints, database schemas, and business logic.
+
+Database Administrator: Manages database design, indexing, and optimizations.
+
+DevOps Engineer: Handles deployment, monitoring, and scaling of the backend services.
+
+QA Engineer: Ensures the backend functionalities are thoroughly tested and meet quality standards.
+
